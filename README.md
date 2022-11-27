@@ -56,9 +56,13 @@ Descomprima el .ZIP y ejecute los archivos .py
 # Contenido
 
 -En la carpeta Funciones_DEUTSCH se esncontraran las pruebas de las 4 funciones en el computador cuántico
+
 -En la carpeta Deutsh se encontrará la prueba del algoritmo de Deutsch con las respectivas funciones
+
 -En la carpeta Funciones_DEUTSCH-Jozsa se esncontraran pruebas con 4 funciones con n=4 (1 constante y 3 balanceadas)
+
 -En la carpeta Deutsh se encontrará la prueba del algoritmo de Deutsch-Jozsa con funciones anteriores
+
 
 # Pruebas
 
