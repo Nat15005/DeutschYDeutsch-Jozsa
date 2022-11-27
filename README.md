@@ -61,7 +61,7 @@ Descomprima el .ZIP y ejecute los archivos .py
 
 -En la carpeta Funciones_DEUTSCH-Jozsa se esncontraran pruebas con 4 funciones con n=4 (1 constante y 3 balanceadas)
 
--En la carpeta Deutsh se encontrará la prueba del algoritmo de Deutsch-Jozsa con funciones anteriores
+-En la carpeta Deutsh-Jozsa se encontrará la prueba del algoritmo de Deutsch-Jozsa con funciones anteriores
 
 
 # Pruebas
