@@ -11,19 +11,19 @@
 
 2. Verifique que el algoritmos de Deutsch funciona para comprobar cuáles de estas funciones son balanceadas o constantes.
 
-Circuito
+    Circuito
 
-Resultados
+    Resultados
 
 3. Implemente al menos 4 funciones con n= 4 (3 balanceadas y una constante) para probar el funcionamiento del algoritmo Deustch-Jozsa
 
-Dibujo función
+    Dibujo función
 
-Matriz correspondiente (Generada por computador)
+    Matriz correspondiente (Generada por computador)
 
-Circuito
+    Circuito
 
-Pruebas
+    Pruebas
 
-Prueba del experimento Deutsch-Jozsa
+    Prueba del experimento Deutsch-Jozsa
 
