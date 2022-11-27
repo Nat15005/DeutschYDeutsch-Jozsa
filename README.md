@@ -52,3 +52,7 @@ Pulse el botón “Code” de color verde.
 Seleccione la opción “Download ZIP”
 
 Descomprima el .ZIP y ejecute los archivos .py
+
+# Autor
+
+Laura Natalia Rojas Robayo - Deutsch Y Deutsch-Jozsa
