@@ -1,1 +1,1 @@
-# DeutschYDeutsch-Jozsa
+# Deutsch Y Deutsch-Jozsa
