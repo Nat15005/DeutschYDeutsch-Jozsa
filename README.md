@@ -37,9 +37,9 @@ El primer prerrequisito para correr los programas es disponer de un IDE apto par
 
 En la terminal:
 
-pip install qiskit
+    pip install qiskit
 
-pip install qiskit[visualization]
+    pip install qiskit[visualization]
 
 # Instalación
 
